@@ -38,3 +38,14 @@
 [ERROR] 2022-11-07 13:24:20.017 [main] Log - Element not found.
 [ERROR] 2022-11-07 13:24:25.415 [main] Log - Selectbox not found.
 [ERROR] 2022-11-07 13:24:30.781 [main] Log - Element not found.
+[INFO ] 2022-11-07 13:55:42.267 [main] AmazonWebTests - Title found: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2022-11-07 13:55:43.527 [main] Log - Hamburger Menu Clicked.
+[INFO ] 2022-11-07 13:55:43.776 [main] Log - TV Appliances Menu Clicked.
+[INFO ] 2022-11-07 13:55:45.174 [main] Log - Televisions Menu clicked.
+[INFO ] 2022-11-07 13:55:50.115 [main] Log - Brands Menu Clicked.
+[INFO ] 2022-11-07 13:55:53.179 [main] Log - Selectbox option clicked.
+[INFO ] 2022-11-07 13:55:53.811 [main] Log - Second highest priced item Clicked.
+[INFO ] 2022-11-07 13:55:53.859 [main] Log - Switched to Selected Item Page.
+[INFO ] 2022-11-07 13:56:01.378 [main] AmazonWebTests - Item Page Title found: Samsung 138 cm (55 inches) 4K Ultra HD Smart QLED TV QA55Q7F : Amazon.in: Electronics
+[INFO ] 2022-11-07 13:56:01.733 [main] Log - About This Item Exists.
+[INFO ] 2022-11-07 13:56:01.954 [main] Log - Resolution: 4K Ultra HD (3840 x 2160)

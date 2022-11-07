@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-07T13:10:12 IST" name="Suite" finished-at="2022-11-07T13:10:39 IST" duration-ms="26705">
+  <suite started-at="2022-11-07T13:55:35 IST" name="Surefire suite" finished-at="2022-11-07T13:56:02 IST" duration-ms="27937">
     <groups>
     </groups>
-    <test started-at="2022-11-07T13:10:12 IST" name="Test" finished-at="2022-11-07T13:10:39 IST" duration-ms="26705">
+    <test started-at="2022-11-07T13:55:35 IST" name="Surefire test" finished-at="2022-11-07T13:56:02 IST" duration-ms="27937">
       <class name="com.amazon.project.tests.AmazonWebTests">
-        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.amazon.project.tests.AmazonWebTests@4d722ac9]" started-at="2022-11-07T13:10:13 IST" name="preCondition" finished-at="2022-11-07T13:10:20 IST" duration-ms="7536" status="PASS">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.amazon.project.tests.AmazonWebTests@4816278d]" started-at="2022-11-07T13:55:35 IST" name="preCondition" finished-at="2022-11-07T13:55:41 IST" duration-ms="6513" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method signature="shouldValidateTheAboutThisItem()[pri:0, instance:com.amazon.project.tests.AmazonWebTests@4d722ac9]" started-at="2022-11-07T13:10:20 IST" name="shouldValidateTheAboutThisItem" finished-at="2022-11-07T13:10:38 IST" duration-ms="17888" status="PASS">
+        <test-method signature="shouldValidateTheAboutThisItem()[pri:0, instance:com.amazon.project.tests.AmazonWebTests@4816278d]" started-at="2022-11-07T13:55:41 IST" name="shouldValidateTheAboutThisItem" finished-at="2022-11-07T13:56:01 IST" duration-ms="20127" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shouldValidateTheAboutThisItem -->
-        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.amazon.project.tests.AmazonWebTests@4d722ac9]" started-at="2022-11-07T13:10:39 IST" name="postCondition" finished-at="2022-11-07T13:10:39 IST" duration-ms="551" status="PASS">
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.amazon.project.tests.AmazonWebTests@4816278d]" started-at="2022-11-07T13:56:02 IST" name="postCondition" finished-at="2022-11-07T13:56:02 IST" duration-ms="485" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
       </class> <!-- com.amazon.project.tests.AmazonWebTests -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
 </testng-results>
