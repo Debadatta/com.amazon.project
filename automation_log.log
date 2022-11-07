@@ -1,0 +1,40 @@
+[INFO ] 2022-11-07 13:08:23.032 [main] AmazonWebTests - Title found: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2022-11-07 13:08:24.258 [main] Log - Hamburger Menu Clicked.
+[INFO ] 2022-11-07 13:08:24.521 [main] Log - TV Appliances Menu Clicked.
+[INFO ] 2022-11-07 13:08:25.892 [main] Log - Televisions Menu clicked.
+[INFO ] 2022-11-07 13:08:29.062 [main] Log - Brands Menu Clicked.
+[INFO ] 2022-11-07 13:08:34.644 [main] Log - Selectbox option clicked.
+[INFO ] 2022-11-07 13:08:35.128 [main] Log - Second highest priced item Clicked.
+[INFO ] 2022-11-07 13:08:35.204 [main] Log - Switched to Selected Item Page.
+[INFO ] 2022-11-07 13:08:39.562 [main] AmazonWebTests - Item Page Title found: Samsung 138 cm (55 inches) 4K Ultra HD Smart QLED TV QA55Q7F : Amazon.in: Electronics
+[INFO ] 2022-11-07 13:08:39.840 [main] Log - About This Item Exists.
+[INFO ] 2022-11-07 13:08:40.066 [main] Log - Resolution: 4K Ultra HD (3840 x 2160)
+[INFO ] 2022-11-07 13:10:20.957 [main] AmazonWebTests - Title found: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2022-11-07 13:10:22.173 [main] Log - Hamburger Menu Clicked.
+[INFO ] 2022-11-07 13:10:22.421 [main] Log - TV Appliances Menu Clicked.
+[INFO ] 2022-11-07 13:10:23.783 [main] Log - Televisions Menu clicked.
+[INFO ] 2022-11-07 13:10:29.089 [main] Log - Brands Menu Clicked.
+[INFO ] 2022-11-07 13:10:32.178 [main] Log - Selectbox option clicked.
+[INFO ] 2022-11-07 13:10:32.724 [main] Log - Second highest priced item Clicked.
+[INFO ] 2022-11-07 13:10:32.863 [main] Log - Switched to Selected Item Page.
+[INFO ] 2022-11-07 13:10:37.774 [main] AmazonWebTests - Item Page Title found: Samsung 138 cm (55 inches) 4K Ultra HD Smart QLED TV QA55Q7F : Amazon.in: Electronics
+[INFO ] 2022-11-07 13:10:38.415 [main] Log - About This Item Exists.
+[INFO ] 2022-11-07 13:10:38.630 [main] Log - Resolution: 4K Ultra HD (3840 x 2160)
+[INFO ] 2022-11-07 13:12:34.826 [main] AmazonWebTests - Title found: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[INFO ] 2022-11-07 13:12:40.736 [main] Log - Hamburger Menu Clicked.
+[INFO ] 2022-11-07 13:12:41.121 [main] Log - TV Appliances Menu Clicked.
+[INFO ] 2022-11-07 13:12:45.072 [main] Log - Televisions Menu clicked.
+[INFO ] 2022-11-07 13:12:47.987 [main] Log - Brands Menu Clicked.
+[INFO ] 2022-11-07 13:12:53.163 [main] Log - Selectbox option clicked.
+[INFO ] 2022-11-07 13:12:55.407 [main] Log - Second highest priced item Clicked.
+[INFO ] 2022-11-07 13:12:55.453 [main] Log - Switched to Selected Item Page.
+[INFO ] 2022-11-07 13:13:01.861 [main] AmazonWebTests - Item Page Title found: Samsung 138 cm (55 inches) 4K Ultra HD Smart QLED TV QA55Q7F : Amazon.in: Electronics
+[INFO ] 2022-11-07 13:13:02.389 [main] Log - About This Item Exists.
+[INFO ] 2022-11-07 13:13:02.749 [main] Log - Resolution: 4K Ultra HD (3840 x 2160)
+[INFO ] 2022-11-07 13:23:58.805 [main] AmazonWebTests - Title found: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+[ERROR] 2022-11-07 13:24:04.169 [main] Log - Element not found.
+[ERROR] 2022-11-07 13:24:09.389 [main] Log - Element not found.
+[ERROR] 2022-11-07 13:24:14.714 [main] Log - Element not found.
+[ERROR] 2022-11-07 13:24:20.017 [main] Log - Element not found.
+[ERROR] 2022-11-07 13:24:25.415 [main] Log - Selectbox not found.
+[ERROR] 2022-11-07 13:24:30.781 [main] Log - Element not found.

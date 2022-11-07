@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-07T13:10:12 IST" name="Suite" finished-at="2022-11-07T13:10:39 IST" duration-ms="26705">
+    <groups>
+    </groups>
+    <test started-at="2022-11-07T13:10:12 IST" name="Test" finished-at="2022-11-07T13:10:39 IST" duration-ms="26705">
+      <class name="com.amazon.project.tests.AmazonWebTests">
+        <test-method is-config="true" signature="preCondition()[pri:0, instance:com.amazon.project.tests.AmazonWebTests@4d722ac9]" started-at="2022-11-07T13:10:13 IST" name="preCondition" finished-at="2022-11-07T13:10:20 IST" duration-ms="7536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method signature="shouldValidateTheAboutThisItem()[pri:0, instance:com.amazon.project.tests.AmazonWebTests@4d722ac9]" started-at="2022-11-07T13:10:20 IST" name="shouldValidateTheAboutThisItem" finished-at="2022-11-07T13:10:38 IST" duration-ms="17888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldValidateTheAboutThisItem -->
+        <test-method is-config="true" signature="postCondition()[pri:0, instance:com.amazon.project.tests.AmazonWebTests@4d722ac9]" started-at="2022-11-07T13:10:39 IST" name="postCondition" finished-at="2022-11-07T13:10:39 IST" duration-ms="551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- com.amazon.project.tests.AmazonWebTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
